@@ -1,7 +1,8 @@
 # 65_classifier
-Easy to use classifier for researchers with limited backgorund in computer science!
+Easy to use classifier for researchers with limited backgorund in computer science (like me)!
 
 
-First install PreReq on Python or Jupyter:
+First install PreReq on Python IDLE or Jupyter NB:
+
 pip install tensorflow
 pip install keras
